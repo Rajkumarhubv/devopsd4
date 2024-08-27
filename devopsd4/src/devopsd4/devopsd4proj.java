@@ -6,6 +6,7 @@ public class devopsd4proj {
 		// TODO Auto-generated method stub
 System.out.println("helloodjfjfkljjkdf");
 System.out.println("hello RajendraKumarAkula this is BinduAddanki");
+System.out.println("hello RajendraKumarAkula this is BinduAddanki");
 	}
 
 }
